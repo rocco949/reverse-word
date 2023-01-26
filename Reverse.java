@@ -53,9 +53,6 @@ public class Reverse {
 
         obj_rv.starter();
         
-
-
-        
 }
 
         }

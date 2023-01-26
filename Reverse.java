@@ -10,6 +10,7 @@ public class Reverse {
         for (int i = length; i >= 0; --i) {
             System.out.print(word[i]);  
         }
+        System.out.println("\n");
         obj_rv.ending();
     }
 

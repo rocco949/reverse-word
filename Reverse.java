@@ -14,6 +14,10 @@ public class Reverse {
          obj_rv.ending();
     }
 
+    static void palDetection(word1, word2) {
+       return (word1 == word2) ?  true:false;
+    }
+
     public void starter() {
         Scanner obj_sc = new Scanner(System.in);
 
